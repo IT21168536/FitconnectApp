@@ -120,6 +120,7 @@ This project involves the development of a social media platform tailored for fi
 This corrected version ensures that headings, bullet points, and code blocks are properly formatted, making the `README.md` file readable and visually appealing.
 
 
-![Screenshot 2024-06-20 220839](https://github.com/IT21168536/pitconnectApp/assets/99183326/bb6be162-93a1-4514-ab9f-b45dee3502f4)
+![Screenshot 2024-06-20 220839](https://github.com/IT21168536/pitconnectApp/assets/99183326/f6adfd1d-512f-4ef0-b911-bb0b721a77d0)
+
 
 
