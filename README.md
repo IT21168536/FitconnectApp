@@ -121,3 +121,10 @@ This corrected version ensures that headings, bullet points, and code blocks are
 
 
 
+![Screenshot 2024-06-20 232031](https://github.com/IT21168536/FitconnectApp/assets/99183326/4f263191-1710-4b6a-afad-dc4d7167ac30)
+![Screenshot 2024-06-20 232044](https://github.com/IT21168536/FitconnectApp/assets/99183326/33463aef-899b-4518-8b3c-73920a34c403)
+![Screenshot 2024-06-20 221338](https://github.com/IT21168536/FitconnectApp/assets/99183326/08df9de9-1d06-40aa-a852-8e2e89c3e207)
+![Screenshot 2024-06-20 231923](https://github.com/IT21168536/FitconnectApp/assets/99183326/4001b27a-382e-4548-8b7a-01cd845de069)
+![Screenshot 2024-06-20 231818](https://github.com/IT21168536/FitconnectApp/assets/99183326/48724683-9ce7-4a65-881b-d04486b47b6f)
+![Screenshot 2024-06-20 221311](https://github.com/IT21168536/FitconnectApp/assets/99183326/6a8e021e-9ff3-4d7e-b930-4978241de38f)
+![Screenshot 2024-06-20 220839](https://github.com/IT21168536/FitconnectApp/assets/99183326/543f6a7b-3836-47ce-a132-68bb57585678)
